@@ -1,8 +1,7 @@
 package classes;
 
 
-/* Alunos: -Nome:Maize Rodrigues dos Santos matricula:202120789
- *         -Nome:Henrique Gomes Nunes matricula:202120668 */
+/* Aluna:Maize Rodrigues dos Santos */
 
 
 import java.util.ArrayList;
